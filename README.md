@@ -1,4 +1,4 @@
-# 👋 Knock-Knock, it's **Muhammad Al Ghifari**
+# 🚪 Knock-Knock, it's **Muhammad Al Ghifari**
 
 📊 Data Enthusiast (Data Analytics, Machine Learning, Deep Learning)  
 📍 Based in Jakarta, Indonesia
@@ -22,7 +22,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ## 🛠️ Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -33,4 +32,4 @@
 ---
 
 ## 📦 Projects
-- [**LogiSight: ETL & Data Quality for US Logistics**](https://github.com/alghfrimh/ETL-Data-Quality-for-US-Logistics)(#) — ETL & data quality pipeline for US logistics with Airflow and Great Expectations
+- [**LogiSight: ETL & Data Quality for US Logistics**](https://github.com/alghfrimh/ETL-Data-Quality-for-US-Logistics) — ETL & data quality pipeline for US logistics with Airflow and Great Expectations
