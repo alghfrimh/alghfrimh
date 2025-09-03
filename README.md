@@ -36,4 +36,4 @@
 - [**LogiSight: ETL & Data Quality for US Logistics**](https://github.com/alghfrimh/ETL-Data-Quality-for-US-Logistics) — ETL & data quality pipeline for US logistics with Airflow and Great Expectations
 
 ## 📈 GitHub Activity
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alghfrimh&theme=github_dark)
