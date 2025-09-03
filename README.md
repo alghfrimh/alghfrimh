@@ -1,15 +1,15 @@
 <div align="justify">
 
-# 🚪 Knock-Knock, it's **Muhammad Al Ghifari**
+# 🚪 Knock, knock - it's **Muhammad Al Ghifari**!
 
 📊 Data Enthusiast (Data Analytics, Machine Learning, Deep Learning)  
 📍 Based in Jakarta, Indonesia
 
 ---
 
-## 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+## 💻 Programming Languages
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=14)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=14)
 
 ## 📊 Deployment & Visualization Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=14)
