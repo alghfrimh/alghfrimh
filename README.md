@@ -1,8 +1,6 @@
-<div align="justify">
-
 # 🚪 Knock, knock - it's **Muhammad Al Ghifari**!
 
-📊 Data Enthusiast (Data Analytics, Machine Learning, Deep Learning)  
+📊 Data Enthusiast (**Data Analytics**, **Machine Learning** and **Deep Learning**)  
 📍 Based in Jakarta, Indonesia
 
 ---
