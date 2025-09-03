@@ -34,6 +34,3 @@
 
 ## 📦 Projects
 - **LogiSight: ETL & Data Quality for US Logistics** — ETL & data quality pipeline for US logistics with Airflow and Great Expectations + [https://github.com/alghfrimh/ETL-Data-Quality-for-US-Logistics](#)
-
-> Tip: kasih angka hasil (mis. *“+12% accuracy, -30% runtime”*) di tiap proyek.
-
