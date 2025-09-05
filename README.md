@@ -32,8 +32,10 @@
 ---
 
 ## 📦 Projects
-  
+
+- [**Gross Income Growth for FMCG Branches in Myanmar Analysis**](https://github.com/alghfrimh/Gross-Income-Growth-for-FMCG-Branches-in-Myanmar-Analysis) — Cleaned and analyzed 2019 Myanmar FMCG sales: built branch growth metrics and an interactive Tableau dashboard.
 - [**LogiSight: ETL & Data Quality for US Logistics**](https://github.com/alghfrimh/ETL-Data-Quality-for-US-Logistics) — ETL & data quality pipeline for US logistics with Airflow and Great Expectations.
-- [**Gross Income Growth for FMCG Branches in Myanmar Analysis**](https://github.com/alghfrimh/Gross-Income-Growth-for-FMCG-Branches-in-Myanmar-Analysis) - Cleaned and analyzed 2019 Myanmar FMCG sales: built branch growth metrics and an interactive Tableau dashboard.
+
+
 ## 📈 GitHub Activity
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alghfrimh&theme=default)
