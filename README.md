@@ -13,6 +13,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=14)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white&logoWidth=14)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&logoWidth=14)
+![Gradio](https://img.shields.io/badge/Gradio-20B57F?style=for-the-badge&logo=gradio&logoColor=white&logoWidth=14)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&logoWidth=14)
 
 ## 📚 Frameworks & Libraries
